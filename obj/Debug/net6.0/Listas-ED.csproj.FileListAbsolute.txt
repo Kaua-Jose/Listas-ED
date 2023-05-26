@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\repo\Listas-ED\bin\Debug\net6.0\Listas-ED.exe
+C:\Users\Aluno\Desktop\repo\Listas-ED\bin\Debug\net6.0\Listas-ED.deps.json
+C:\Users\Aluno\Desktop\repo\Listas-ED\bin\Debug\net6.0\Listas-ED.runtimeconfig.json
+C:\Users\Aluno\Desktop\repo\Listas-ED\bin\Debug\net6.0\Listas-ED.dll
+C:\Users\Aluno\Desktop\repo\Listas-ED\bin\Debug\net6.0\Listas-ED.pdb
+C:\Users\Aluno\Desktop\repo\Listas-ED\obj\Debug\net6.0\Listas-ED.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\repo\Listas-ED\obj\Debug\net6.0\Listas-ED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\repo\Listas-ED\obj\Debug\net6.0\Listas-ED.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\repo\Listas-ED\obj\Debug\net6.0\Listas-ED.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\repo\Listas-ED\obj\Debug\net6.0\Listas-ED.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\repo\Listas-ED\obj\Debug\net6.0\Listas-ED.dll
+C:\Users\Aluno\Desktop\repo\Listas-ED\obj\Debug\net6.0\refint\Listas-ED.dll
+C:\Users\Aluno\Desktop\repo\Listas-ED\obj\Debug\net6.0\Listas-ED.pdb
+C:\Users\Aluno\Desktop\repo\Listas-ED\obj\Debug\net6.0\Listas-ED.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\repo\Listas-ED\obj\Debug\net6.0\ref\Listas-ED.dll
